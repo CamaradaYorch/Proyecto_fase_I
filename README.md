@@ -2,7 +2,9 @@
 
 ▓▓ Terminal-based Student Registration and Management System ▓▓
 
+
 This repository contains the source code for the implementation of a grade and report management system.
+
 
 ░░ Project Description ░░
 
@@ -10,6 +12,7 @@ The main objective of this project is to improve grade administration,
 facilitate report generation, and provide a comprehensive view of student performance. 
 Through this system, we aim to digitize and optimize the student data management process, 
 enabling registration and updating of grades by subject and period, as well as personalized report generation.
+
 
 ░░ Usage Instructions ░░
 
@@ -29,6 +32,7 @@ Copy code
 python main.py
 Follow the on-screen instructions to enter student data, register grades, generate reports, and perform searches.
 
+
 ░░ Contributions ░░
 
 Contributions to this project are welcome. If you would like to make improvements, bug fixes, or add new features, 
@@ -44,6 +48,7 @@ Submit a pull request for us to review and merge your changes.
 
 If you have any questions or comments about this project, feel free to contact me.
 
+
 ░░ License ░░
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
@@ -52,7 +57,9 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ▓▓ Sistema de registro y gestión de alumnos en Terminal ▓▓
 
+
 Este repositorio contiene el código fuente para la implementación de un sistema de gestión de calificaciones y reportes.
+
 
 ░░ Descripción del Proyecto ░░
 
@@ -61,6 +68,7 @@ facilitar la generación de reportes y ofrecer una visión integral del desempe�
 A través de este sistema, se busca digitalizar y optimizar el proceso de gestión de datos de los alumnos, 
 permitiendo el registro y actualización de calificaciones por asignatura y periodo, así como la generación 
 de reportes personalizados.
+
 
 ░░ Instrucciones de Uso ░░
 
@@ -82,6 +90,7 @@ Siga las instrucciones en pantalla para ingresar los datos de los alumnos, regis
 
 
 ░░ Contribuciones ░░
+
 Las contribuciones a este proyecto son bienvenidas. 
 Si desea realizar mejoras, correcciones de errores o agregar nuevas características,
  le recomendamos seguir los siguientes pasos:
@@ -91,9 +100,11 @@ Cree una rama específica para su contribución.
 Realice los cambios y mejoras en su rama.
 Envíe un pull request para que revisemos y fusionemos sus cambios.
 
+
 ░░ Contacto ░░
 Si tiene alguna pregunta o comentario sobre este proyecto, 
 no dudes en ponerse en contacto con tu servidor.
+
 
 ░░ Licencia ░░
 Este proyecto está bajo la Licencia MIT. Consulte el archivo LICENSE para obtener más información.
